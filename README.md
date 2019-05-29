@@ -1,5 +1,5 @@
 # JavaScript-NodeJs
 
-#Node.js class for uploading files to GoogleDrive
+#Integration of amoCRM, MangoOffice and GoogleDrive
 
 #end
