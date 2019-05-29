@@ -1,7 +1,6 @@
 
 /**
  * @author 2017 Nidal Shevchenko
- * @copyright Different Way
  * Integration for amoCRM via Mango Telecom and Google Drive. 
  */
 
