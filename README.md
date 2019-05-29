@@ -1,5 +1,5 @@
-##Integration project
+Integration project
 
-#Integration of amoCRM, MangoOffice and GoogleDrive
+*Integration for amoCRM via Mango Telecom and Google Drive.
 
 #end
