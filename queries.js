@@ -1,9 +1,9 @@
 
 var pool = require("mysql").createPool({
-		host: 'localhost',
-		user: 'mango',
-		password: 'rhNbS7Hw03SavWqJhmXz53da',
-		database: 'mango_mango'	
+		host: '',
+		user: '',
+		password: '',
+		database: ''	
 });
 
 exports.query = function(sql,props)
